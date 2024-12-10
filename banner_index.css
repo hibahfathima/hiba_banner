@@ -6,3 +6,30 @@
     height: 400px;
     color:white;
 }
+
+
+.nav-bar a{
+    color:white;
+    text-decoration:none;
+    margin: 0 10px;
+    font-weight: bold;
+
+
+}
+
+
+.nav-bar a:hover{
+    text-decoration: underline;
+}
+
+
+.nav-bar {
+    position: absolute;
+    top:0;
+    width:100%;
+    background-color: rgba(0,0,0,0.5);
+    padding:10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
