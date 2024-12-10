@@ -1,0 +1,8 @@
+.banner{
+    position:relative;
+    background-image: url("https://cdn.pixabay.com/photo/2013/04/03/21/25/flower-100263_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color:white;
+}
